@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="file:///C:/Users/hp/Downloads/noor_rabah_page.html"  />
+  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi,%20I%27m%20Noor%20Rabah!&fontSize=45&width=1000&fontColor=ffffff"  />
 </div>
 
 ###
@@ -45,6 +45,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"></h3>
 
 ###
